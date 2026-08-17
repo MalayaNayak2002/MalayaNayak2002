@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malaya Nayak</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 <h6 align="center">Hello, I am Malaya Nayak, a Full Stack Software Engineer. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
